@@ -112,11 +112,7 @@ Professional Edition (planned)
 
 ## Installation
 
-Download the latest release from the Releases section.
-
-Run:
-
-    evidex.exe --help
+Download the latest release from the Releases section. Simply run the installer. 
 
 ------------------------------------------------------------------------
 
