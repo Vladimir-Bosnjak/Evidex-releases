@@ -133,9 +133,12 @@ Verify audit logs:
 ------------------------------------------------------------------------
 
 ## Documentation
-
 -   MANUAL.md -- end‑user guide
 -   docs/ -- architecture and development notes
+
+## Star
+If you like the features or the project so far, please leave a "like" by clickign the star.
+Thank you.
 
 # Contact #
 - Via Github
