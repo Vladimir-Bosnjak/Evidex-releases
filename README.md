@@ -137,7 +137,7 @@ Verify audit logs:
 -   docs/ -- architecture and development notes
 
 ## Star
-If you like the features or the project so far, please leave a "like" by clickign the star.
+If you like the features or the project so far, please leave a "like" by clicking the star.
 Thank you.
 
 # Contact #
