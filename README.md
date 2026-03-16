@@ -9,7 +9,7 @@ Feedback is welcome.
 
 ------------------------------------------------------------------------
 
-## Bug Reporting and Support
+## Security, Bug Reporting and Support
 
 The project is actively developed. Bug reports are reviewed and addressed as quickly as possible. Feature requests may or may not be implemented in the Community Edition.
 
