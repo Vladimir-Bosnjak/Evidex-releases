@@ -143,3 +143,20 @@ Thank you.
 # Contact #
 - Via Github
 - evidex.contact@gmail.com
+
+  ## Screenshots
+
+### Basic scan and verification
+![Basic scan and verification](Basic%20scan%20and%20verification.jpg)
+
+### Log matching console command history
+![Log matching console command history](Log%20matching%20console%20command%20history.jpg)
+
+### Manifest output
+![Manifest output](Manifest%20output.jpg)
+
+### Deltas
+![Deltas](deltas.jpg)
+
+### Secured session logs
+![Secured session logs](secured%20session%20logs.jpg)
